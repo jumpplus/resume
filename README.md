@@ -1,10 +1,10 @@
 # 巫自倫的履歷
 
-## 個人基本資料<br>Basic Information
+## 個人基本資料
 <table>
 	<tbody>
 		<tr>
-			<th>電子郵件地址<br>E-mail Address</th>
+			<th>電子郵件地址</th>
 			<td>andy62210@hotmail.com</td>
 		</tr>
 		<tr>
@@ -21,3 +21,19 @@
 		</tr>
 	</tbody>
 </table>
+
+##程式語言
+1. Objective C
+1. Swift
+
+##其他接觸過的語言
+1. PHP
+1. MySQL
+1. c
+1. c++
+1. html
+1. css
+1. java
+1. .net
+1. VB
+
