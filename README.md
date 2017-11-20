@@ -4,11 +4,11 @@
 <table>
 	<tbody>
 		<tr>
-			<th>電子郵件地址</th>
+			<th>E-Mail</th>
 			<td>andy62210@hotmail.com</td>
 		</tr>
 		<tr>
-			<th>學歷</th>
+			<th>Education</th>
 			<td>德明財經科技大學資訊管理系(102畢)</td>
 		</tr>
     		<tr>
@@ -16,11 +16,33 @@
 			<td>德明財經科技大學資訊管理所(104畢)</td>
 		</tr>
 		<tr>
-			<th>居住地</th>
+			<th>Location</th>
 			<td>台北市</td>
 		</tr>
 	</tbody>
 </table>
+
+## 工作經驗
+勤創科技 - 工程師 2015/8 ~ 2017/8
+* 客制化iOS APP，能獨立開發完整的APP功能
+* 串接Web API(JSON、XML、WebScoket)
+* 規劃軟體架構，設計相關模組
+* 分析設計文件，並且提問文件相關問題，減少後續問題
+* 與前端、後端、Android 工程師，共同參與討論規格流程設定
+* 進行軟體測試、修改、上架、維護
+* 協助研發新技術，提供技術可行性分析
+
+▀ Objective-C、Swift、HTML、JavaScript、SQLlite
+
+德明科技大學 iOS App 課程助教 2014/9 ~ 2015/1
+* 
+
+勤創科技 - 工讀生 2012/10 ~ 2015/7
+* 
+
+德明財經科技大學 機房工讀生 2011/9 ~  2012/7
+* 
+
 
 ## 程式語言
 1. Objective C
@@ -35,7 +57,7 @@
 1. css
 1. java
 1. .net
-1. VB
+1. Note.js
 
 ## Objective C 經驗
 * web API 串接
