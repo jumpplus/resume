@@ -1,6 +1,6 @@
 # 巫自倫的履歷
 
-# 個人基本資料
+# ▶個人基本資料
 <table>
 	<tbody>
 		<tr>
@@ -22,7 +22,7 @@
 	</tbody>
 </table>
 
-# 工作經驗
+# ▶工作經驗
 ## 勤創科技 - 工程師 2015/8 ~ 2017/7
 * 客制化iOS APP，能獨立開發完整的APP功能
 * 串接Web API(JSON、XML、WebScoket)
@@ -47,11 +47,11 @@
 * 電腦軟體更新派送
 
 
-# 程式語言
+# ▶程式語言
 1. Objective C
 1. Swift
 
-# iOS APP(Objective-C、Swift) 經驗
+# ▶iOS APP(Objective-C、Swift) 經驗
 * web API 串接(AFNetworking、Alamofire)
 * in-app purchase(應用程式內購)
 * TestFlight
@@ -67,7 +67,7 @@
 * Google Map SDK
 * Git
 
-# 開發經歷
+# ▶開發經歷
 
 ##  星鮮樂事
 * 星座命理社群APP
