@@ -23,7 +23,7 @@
 </table>
 
 # ▶ 工作經驗
-## 勤創科技 - 工程師 2015-8 ~ 2017-7
+## 勤創科技股份有限公司 - 工程師 2015-8 ~ 2017-7
 * 客製化iOS APP，能獨立開發完整的APP功能
 * 串接Web API(JSON、XML、WebScoket)
 * 規劃軟體架構，設計相關模組
@@ -33,17 +33,17 @@
 * 協助研發新技術，提供技術可行性分析
 * 架設測試伺服器
 
-## 德明科技大學 iOS App 課程助教 2014-9 ~ 2015-1
+## 德明財經科技大學 - iOS App 課程助教 2014-9 ~ 2015-1
 * 協助學校iOS課程，協助講師幫助學生遇到的問題
 * 學校Mac電腦設備維護與更新
 * 幫助撰寫iOS專題學生問題協助與建議
 
-## 勤創科技 - 工讀生 2012-10 ~ 2015-7
+## 勤創科技股份有限公司 - 工讀生 2012-10 ~ 2015-7
 * 客製化iOS APP，協助參與開發APP功能
 * 協助APP上架、封裝
 
-## 德明財經科技大學 資管系機房助理 2011-9 ~  2012-7
-* 協助系上電腦設備問題排除。
+## 德明財經科技大學 - 資管系機房助理 2011-9 ~  2012-7
+* 協助系上電腦設備問題排除
 * 電腦軟體更新派送
 
 
@@ -52,16 +52,16 @@
 1. Swift
 
 # ▶ iOS APP(Objective-C、Swift) 經驗
-* web API 串接(AFNetworking、Alamofire)
-* in-app purchase(應用程式內購)
+* Web API 串接(AFNetworking、Alamofire)
+* In-app Purchase(應用程式內購)
 * TestFlight
 * Atuo Layout
 * 熟悉 Storyboard 操作
-* FacebookAPI & SDK
+* Facebook API & SDK
 * Facebook Live 串接(LFLiveKit)
 * DJI SDK
 * Red5
-* cocoaPods
+* CocoaPods
 * SocketRocket
 * Google Analytics SDK
 * Google Map SDK
@@ -72,14 +72,14 @@
 ##  星鮮樂事
 * 星座命理社群APP
 * 透過推播功能，通知每日星座運勢
-* 使用AtuoLayout 排版，支援4.7寸、5.5寸解析度
+* 使用 AtuoLayout 排版，支援 4.7吋、5.5吋解析度
 * 依照Web設定，動態變更AtuoLayout排版設定
 * 置入AdMob廣告，獲取免費代幣
 * 第三方登入、手機驗證
-* 串接web API
+* 串接Web API
 
 ## 空拍機遠端控制平台
-* 使用AtuoLayout 排版，支援4.7寸、5.5寸解析度
+* 使用AtuoLayout 排版，支援4.7吋、5.5吋解析度
 * 串接WebSocket傳遞資訊
 * 使用Red5處理影像串流
 * 規劃飛機遠端控制規範
@@ -99,7 +99,7 @@
 ## 銀行專案
 * 依照銀行端原有流程，串接Web API
 * WebAPI傳輸資料加密
-* 客制英數鍵盤
+* 客製英數鍵盤
 * 透過推播功能，推送銀行最新資訊與客戶個人相關訊息
 * 透過WebView顯示動態條款說明
 * 整合WebView與原生功能互動。
