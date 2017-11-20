@@ -126,8 +126,6 @@
 1. c++
 1. html
 1. css
-1. java
-1. .net
 1. Note.js
 1. mogodb
 
